@@ -1,4 +1,6 @@
-## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Jonatas Silva
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jonatas+Silva;I'm+29+years+old;I+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+## 
 ![GitHub followers](https://img.shields.io/github/followers/jdeveloperanalyst?style=social)
 <img src="https://komarev.com/ghpvc/?username=jdelevoperanalyst&color=yellow" alt="Profile views" />
 
@@ -6,23 +8,24 @@
 - 🌱 Estudando Python 3 | JavaScript | Inglês
 - 🧑‍💻 Apaixonado por tecnologia
 
-##
-
-<div align="left">
-  <a href="https://github.com/jdelevoperanalyst">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jdeveloperanalyst&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperanalyst&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Jon-Js" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Jon-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jdeveloperanalyst&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonatas Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperanalyst&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/jonatas-silva-dev-6a6f6e/" target="_blank"><img align="center" alt="Jon-Linked1in" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"></a>
-</div>
+### Main skills:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
