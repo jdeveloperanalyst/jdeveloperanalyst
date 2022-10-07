@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente, busco minha primeira oportunidade como Desenvolvedor Jr.
 - 🌱 Estudando Python 3 | JavaScript | Inglês
+- 🧑‍💻 Apaixonado por tecnologia
 
 ##
 
