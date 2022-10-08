@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jonatas+Silva;I'm+29+years+old;I+from+SP,+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jonatas+Silva;I'm+29+years+old;I'm+from+SP,+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 
 ![GitHub followers](https://img.shields.io/github/followers/jdeveloperanalyst?style=social)
