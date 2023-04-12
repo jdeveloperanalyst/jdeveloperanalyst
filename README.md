@@ -4,14 +4,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/jdeveloperanalyst?style=social)
 <img src="https://komarev.com/ghpvc/?username=jdelevoperanalyst&color=yellow" alt="Profile views" />
 
-- 🔭 Atualmente, busco minha primeira oportunidade como Desenvolvedor Jr.
-- 🌱 Estudando Python 3 | JavaScript | Inglês
-- 🧑‍💻 Apaixonado por tecnologia
+- 🌱 Estudando Python 3 | Framework Flask | Inglês
+- 🧑‍💻 Como desenvolvedor júnior, estou empolgado em explorar as maravilhas da tecnologia e construir soluções inovadoras que melhorem a vida das pessoas.
+<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jdeveloperanalyst&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonatas Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperanalyst&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=jdeveloperanalyst&show_icons=true&theme=github_dark" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperanalyst&layout=compact&theme=github_dark&custom_title=Used%20Most%20Languages&langs_count=6" width="48%" height="202">
+
 
 ##
 
