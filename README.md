@@ -4,8 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/jdeveloperanalyst?style=social)
 <img src="https://komarev.com/ghpvc/?username=jdelevoperanalyst&color=yellow" alt="Profile views" />
 
-- 🌱 Estudando Python 3 | Framework Flask | Inglês
-- 🧑‍💻 Como desenvolvedor júnior, estou empolgado em explorar as maravilhas da tecnologia e construir soluções inovadoras que melhorem a vida das pessoas.
+- 🌱 Estudando Python 3 POO | Inglês
+- 🧑‍💻 Como desenvolvedor Pleno, estou empolgado em explorar as maravilhas da tecnologia e construir soluções inovadoras que melhorem a vida das pessoas.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jdeveloperanalyst&show_icons=true&theme=github_dark" width="48%">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperanalyst&layout=compact&theme=github_dark&custom_title=Used%20Most%20Languages&langs_count=6" width="48%" height="168">
